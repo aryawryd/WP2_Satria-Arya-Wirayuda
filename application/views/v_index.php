@@ -1,4 +1,4 @@
-<selection>
+<section>
     <h1><?php echo $judul ?></h1>
     <p align='justify'>Pada pengertian codeigniter di atas tadi di jelaskan bahwa codeigniter menggunakan metode MVC.
         apa itu MVC? Kita juga harus mengetahui apa itu MVC sebelum masuk dan lebih jauh dalam belajar codeigniter.</p>
@@ -23,4 +23,4 @@
         kemudian controller yang meneruskannya pada view untuk di tampilkan. Jadi jelas sudah dan sangat mudah dalam pengembangan aplikasi dengan cara mvc ini karena web designer atau front-end developer tidak perlu lagi berhubungan 
         dengan controller, dia hanya perlu berhubungan dengan view untuk mendesign tampilann aplikasi, karena back-end developer yang menangani bagian controller dan modelnya.
         Jadi pembagian tugas pun menjadi mudah dan pengembangan aplikasi dapat di lakukan dengancepat dan terstruktur.</p>
-</selection>
+</section>
